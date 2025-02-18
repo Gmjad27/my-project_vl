@@ -15,7 +15,7 @@ const name1 = document.getElementById("name");
 // name1.innerText = prompt("Enter your name:");
 
 // array of gifs - in order
-const gifs = ["assets/images/togepi-happy.gif", "assets/images/togepi-sad-1.gif", "assets/images/togepi-sad-2.gif", "assets/images/togepi-crying.gif"];
+const gifs = ["togepi-happy.gif", "togepi-sad-1.gif", "togepi-sad-2.gif", "togepi-crying.gif"];
 // array of messages
 const buttonMessages = ["Are you sure??", "please", "PLEASE PLEASE", "Man jao naa!"];
 
